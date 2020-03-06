@@ -1,11 +1,3 @@
-// Name: Jiawei Yang
-// Seneca Student ID: 121134183
-// Seneca email: jyang210@myseneca.ca
-// Date of completion: October 25, 2019
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
-
 #include "Utilities.h"
 
 size_t Utilities::m_widthField{ 1 };
